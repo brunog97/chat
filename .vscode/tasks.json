@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "configurations": [
+        {
+            "name": "Dart & Flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug"
+        }
+    ]
+}
