@@ -1,16 +1,20 @@
-# personal_expenses
+# Chat
 
-A new Flutter project.
+<h3>English</h3>
 
-## Getting Started
+<p>"Chat" is a simple app to talk. It is being developed by <a href="https://github.com/brunog97">Bruno Gomes</a> and <a href="https://github.com/">Bruno Silveira</a> under the supervision of Professor <a href="https://github.com/matiasfilho81">Matias Filho</a> in Dart language during the development class for mobile systems at the ADS graduation course at <a href="https://www.usf.edu.br/english/">University São Francisco</a>.</p>
 
-This project is a starting point for a Flutter application.
+<h3>Português</h3>
+<p>"Chat" é um aplicativo simples para falar. Ela está sendo desenvolvido por<a href="https://github.com/brunog97">Bruno Gomes</a> and <a href="https://github.com/">Bruno Silveira</a> com a supervisão do professor <a href="https://github.com/matiasfilho81">Matias Filho</a> em linguagem Dart durante a aula de desenvolvimento para sistemas móveis da graduação de ADS na <a href="https://www.usf.edu.br/">Universidade São Francisco</a>.</p>
 
-A few resources to get you started if this is your first Flutter project:
+* Dart
+* Flutter
+* VS Code
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+</br></br>
+<h3>**O aplicativo não foi concluído a tempo de que a tela de chat estivesse pronta.**</h3>
+</br>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# printscreen UI
+
+![image](https://user-images.githubusercontent.com/57194931/122692121-c2393600-d209-11eb-8acd-07af29eba6d5.png)
